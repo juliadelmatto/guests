@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/oldstuff/Scenes/field.unity
+    guid: 8cdabaec5f772443e88b815d3590bcfc
+  - enabled: 0
+    path: Assets/oldstuff/town.unity
+    guid: 71eeb2bd7d9b84869acd2d75ee22f0ac
+  - enabled: 0
+    path: Assets/oldstuff/memory1.unity
+    guid: ee0f77df2358c4caca7e0882c93423d1
+  - enabled: 0
+    path: Assets/oldstuff/memory2.unity
+    guid: 077128b14426a4bb98e9a4839370f22f
+  - enabled: 0
+    path: Assets/oldstuff/impaledgirl.unity
+    guid: 5a700d0ca095147bb9ac1c90d1170c68
+  - enabled: 0
+    path: Assets/oldstuff/evilboy.unity
+    guid: c6eebbe5264464deaa8fb3e414ecf92b
+  - enabled: 1
+    path: Assets/title2.unity
+    guid: acd8808288a0b4adb88d6e4320b9e0b2
+  - enabled: 1
+    path: Assets/hallway.unity
+    guid: 2ab3e64d8c0724658b849f282831056c
+  - enabled: 1
+    path: Assets/yellowworld.unity
+    guid: 2768cbaf1ff164770821f02e8f644a84
+  - enabled: 1
+    path: Assets/oldscenes/hearts.unity
+    guid: 894d5f395ee764c7abddfceecba93cc5
+  - enabled: 1
+    path: Assets/oldscenes/spaceworld.unity
+    guid: 01e09b108c265480aa3a476f8ed8c5eb
+  - enabled: 1
+    path: Assets/oldscenes/windows.unity
+    guid: 02028571ef53e4a2e970f4bb6fc9cf33
+  - enabled: 1
+    path: Assets/windowframe.unity
+    guid: a5de5880167cf401d83427844badc1db
+  - enabled: 1
+    path: Assets/oldscenes/skulls.unity
+    guid: e672a6e05030c46c18217cb96718dcf5
+  - enabled: 1
+    path: Assets/stairs.unity
+    guid: a7d7721ccfdc2456fb8a88503bbcbcba
+  - enabled: 1
+    path: Assets/space.unity
+    guid: 04ad93a600e2a443ea9b1bf5e4802a27
+  - enabled: 1
+    path: Assets/beach.unity
+    guid: 7df5c68be3a494e7e90e157f595e163a
+  - enabled: 1
+    path: Assets/house.unity
+    guid: a07d280a2ed6d46c0968ea6dd1a06448
+  - enabled: 1
+    path: Assets/oldscenes/cave.unity
+    guid: 64c70fd4c8ad94a8b951cf6b7391f6de
+  - enabled: 1
+    path: Assets/squares.unity
+    guid: 848d3c488eb694d938debfd859fed4d8
+  - enabled: 1
+    path: Assets/oldscenes/title.unity
+    guid: 91b7d47be240c4e1c9473a718a536fdf
+  - enabled: 1
+    path: Assets/box.unity
+    guid: 7daded09a1a6949999d86da05a405c3e
+  - enabled: 1
+    path: Assets/birds.unity
+    guid: 513635dc78d7f4de19540cd5a6238333
+  - enabled: 1
+    path: Assets/hallway4.unity
+    guid: fdc92cb80c9b7435ba8b7ed1b3d2a5b5
+  - enabled: 1
+    path: Assets/basicroom.unity
+    guid: 37208d1d189904a268a394573cf6fe63
+  - enabled: 1
+    path: Assets/blankroom.unity
+    guid: b7310559c53a74ec99448b231da031c4
+  - enabled: 1
+    path: Assets/hallway2.unity
+    guid: 121de718a568849759f1b7db52a5a5f7
+  - enabled: 1
+    path: Assets/hallway3.unity
+    guid: 5c0cab11420f14fe2b2368fae4a98d05
+  - enabled: 1
+    path: Assets/pinkgirl.unity
+    guid: fe73da554b8544b14b9cb0021f34c95a
+  - enabled: 1
+    path: Assets/eyes.unity
+    guid: 8920e82a1772045f2b5cc09a728418dc
+  - enabled: 1
+    path: Assets/end.unity
+    guid: 667f91e0667fc4e7bb49a71ba9f064e6
+  m_configObjects: {}

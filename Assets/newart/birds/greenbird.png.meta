@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: bb74b455ee0ae456aaa6b89deea1cc52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 506228122498466776
+    second: greenbird_0
+  - first:
+      213: -2647249489054993498
+    second: greenbird_1
+  - first:
+      213: 7483977829306265019
+    second: greenbird_2
+  - first:
+      213: -7554850500513739934
+    second: greenbird_3
+  - first:
+      213: -5174455992037106832
+    second: greenbird_4
+  - first:
+      213: 9188399265320411099
+    second: greenbird_5
+  - first:
+      213: 2231098131106905912
+    second: greenbird_6
+  - first:
+      213: -9176958518554377741
+    second: greenbird_7
+  - first:
+      213: 767917346461562931
+    second: greenbird_8
+  - first:
+      213: 3491209959026833852
+    second: greenbird_9
+  - first:
+      213: -4057904100675242147
+    second: greenbird_10
+  - first:
+      213: -7321445516764789202
+    second: greenbird_11
+  - first:
+      213: -6822585183955838882
+    second: greenbird_12
+  - first:
+      213: -7856525348782880915
+    second: greenbird_13
+  - first:
+      213: -6652445765336114502
+    second: greenbird_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: greenbird_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332f47af18c4346138bf9bf68be46a9b
+      internalID: 506228122498466776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbird_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 484
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df22d9141ce1142c3a2d8e85324ba761
+      internalID: -2647249489054993498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbird_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 484
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a724b5b2e594aa0a61446b41bd9f66
+      internalID: 7483977829306265019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbird_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 484
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca87dfdee7824e61aa66849f7d40246
+      internalID: -7554850500513739934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbird_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 484
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1737cddd712334b4ca57abd7121d0b5f
+      internalID: -5174455992037106832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbird_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af6d0ae66b5b432dad4d9ea821460cd
+      internalID: 9188399265320411099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbird_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 320
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976d8021b32c54383b67c0e29e00d511
+      internalID: 2231098131106905912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbird_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 320
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a080960a67154c6f9754b87d97f9964
+      internalID: -9176958518554377741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbird_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 320
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f70b28667e054d0eb9e046a878e0be4
+      internalID: 767917346461562931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbird_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 320
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e209836f19e246a38456d163a12bb84
+      internalID: 3491209959026833852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbird_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d5136b5af3c4cf3b54c162978c6696
+      internalID: -4057904100675242147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbird_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 156
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765639c2de43545508d11258a5d0db13
+      internalID: -7321445516764789202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbird_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 156
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942cdc2b35964438f951c2946ab5a125
+      internalID: -6822585183955838882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbird_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 156
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7406ad13355304b04b8fbff958901f8a
+      internalID: -7856525348782880915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenbird_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 156
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba29c30b9dc604583864eca19fc875f3
+      internalID: -6652445765336114502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

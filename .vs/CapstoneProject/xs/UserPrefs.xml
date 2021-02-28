@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{9A63F788-A62D-C487-7680-9ABC19C011EA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/clickanimate.cs">
+    <Files>
+      <File FileName="Assets/slingshot.cs" Line="47" Column="61" />
+      <File FileName="Assets/sequence.cs" />
+      <File FileName="Assets/doors3.cs" Line="116" Column="18" />
+      <File FileName="Assets/changescene.cs" />
+      <File FileName="Assets/playdoorclosed.cs" />
+      <File FileName="Assets/forceratio.cs" />
+      <File FileName="Assets/clickanimate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CapstoneProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="oldstuff" expanded="True" />
+              <Node name="clickanimate.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="13b02331-b371-4d93-98ef-81cf6a7155fe" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

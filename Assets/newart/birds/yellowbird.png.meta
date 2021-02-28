@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 4b630d51382f24d53baa1ba913a22c63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2935799774440768943
+    second: yellowbird_0
+  - first:
+      213: -5668343869539219079
+    second: yellowbird_1
+  - first:
+      213: 8961704790825154173
+    second: yellowbird_2
+  - first:
+      213: -4120704517177195343
+    second: yellowbird_3
+  - first:
+      213: 750949160878164354
+    second: yellowbird_4
+  - first:
+      213: 7251545565615471102
+    second: yellowbird_5
+  - first:
+      213: 2845955661754734314
+    second: yellowbird_6
+  - first:
+      213: 5969416553467192761
+    second: yellowbird_7
+  - first:
+      213: 293918504551552398
+    second: yellowbird_8
+  - first:
+      213: -8754023662213397790
+    second: yellowbird_9
+  - first:
+      213: -4151630748363773919
+    second: yellowbird_10
+  - first:
+      213: 2600286710054747650
+    second: yellowbird_11
+  - first:
+      213: -3099226942036467208
+    second: yellowbird_12
+  - first:
+      213: 8472330907492335597
+    second: yellowbird_13
+  - first:
+      213: -9007583836635421234
+    second: yellowbird_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yellowbird_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f27c72348d3b4a618383b6726484576
+      internalID: 2935799774440768943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowbird_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 484
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfd9d37af7b842eca4ec7d6060f8b10
+      internalID: -5668343869539219079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowbird_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 484
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87012a0648dbb4814958fa4a1457924b
+      internalID: 8961704790825154173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowbird_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 484
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7353f1ee27f104a3ba0e9560b6dd2bd1
+      internalID: -4120704517177195343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowbird_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 484
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb22d4c6bea5466b94e4583aaa1cda1
+      internalID: 750949160878164354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowbird_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f638855e1fcd14d37b8f243307f6d946
+      internalID: 7251545565615471102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowbird_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 320
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2aeca8787b44df9a6fb0089ea2c5ea
+      internalID: 2845955661754734314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowbird_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 320
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6417c32febc454be9a892d5fc93f1bb7
+      internalID: 5969416553467192761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowbird_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 320
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d778e5a6a0817465797de2869c00f950
+      internalID: 293918504551552398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowbird_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 320
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c011e9facacd54ae6b1b0e3f12f5ef6c
+      internalID: -8754023662213397790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowbird_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ef24e74579d4692862404da6c26e7d
+      internalID: -4151630748363773919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowbird_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 156
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6470f19f8dbdf49c78798e87855b07f7
+      internalID: 2600286710054747650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowbird_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 156
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3942ab3652eb34953995af2b820fba3b
+      internalID: -3099226942036467208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowbird_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 156
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da52c8bdc821142a0bcdb3cecaba5960
+      internalID: 8472330907492335597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowbird_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 156
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9ea3d633b7b48d68f6eab8843cf24b
+      internalID: -9007583836635421234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

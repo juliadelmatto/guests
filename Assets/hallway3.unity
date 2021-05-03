@@ -96,6 +96,7 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
+    m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
   m_UseShadowmask: 1
 --- !u!196 &4
@@ -151,6 +152,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -314,6 +316,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -373,7 +376,6 @@ GameObject:
   m_Component:
   - component: {fileID: 798604639}
   - component: {fileID: 798604638}
-  - component: {fileID: 798604640}
   - component: {fileID: 798604643}
   - component: {fileID: 798604642}
   - component: {fileID: 798604645}
@@ -399,6 +401,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -448,26 +451,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &798604640
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 798604637}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 612dd98008063453b815d6b440a0dcf8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  xOffset: 0.5
-  angleconstant: 1
-  birdguyopen: {fileID: 0}
-  pinkgirlopen: {fileID: 0}
-  beachopen: {fileID: 0}
-  closedsprite: {fileID: 0}
-  doornum: 1
-  s: {fileID: 0}
 --- !u!61 &798604642
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -529,6 +512,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scenename: blankroom
   destination: {x: 0, y: 0}
+  playasoundwhenmousedover: 0
+  sound: {fileID: 0}
 --- !u!114 &798604645
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -541,7 +526,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18ea87d1ba70943a69cd0604db166922, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  outline: {fileID: 0}
+  outline: {fileID: 2421985006402307226, guid: aab75a1b80a2046e380e37190df490fa, type: 3}
   normalsprite: {fileID: 21300000, guid: d6115174a633e417d9b76a783280b10e, type: 3}
   headopen: {fileID: 21300000, guid: f00a1d5125e2649d19324174501b8653, type: 3}
 --- !u!1 &1135998555
@@ -575,6 +560,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -634,7 +620,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1248066457}
   - component: {fileID: 1248066456}
-  - component: {fileID: 1248066455}
   - component: {fileID: 1248066454}
   - component: {fileID: 1248066452}
   - component: {fileID: 1248066458}
@@ -684,7 +669,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18ea87d1ba70943a69cd0604db166922, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  outline: {fileID: 0}
+  outline: {fileID: 2421985006402307226, guid: aab75a1b80a2046e380e37190df490fa, type: 3}
   normalsprite: {fileID: 21300000, guid: d6115174a633e417d9b76a783280b10e, type: 3}
   headopen: {fileID: 21300000, guid: 3dfd2119b780c454397e62c38d46c1eb, type: 3}
 --- !u!50 &1248066454
@@ -708,26 +693,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &1248066455
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1248066451}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 612dd98008063453b815d6b440a0dcf8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  xOffset: 0.5
-  angleconstant: 1
-  birdguyopen: {fileID: 0}
-  pinkgirlopen: {fileID: 0}
-  beachopen: {fileID: 0}
-  closedsprite: {fileID: 0}
-  doornum: 1
-  s: {fileID: 0}
 --- !u!212 &1248066456
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -742,6 +707,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -805,6 +771,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scenename: blankroom
   destination: {x: 0, y: 0}
+  playasoundwhenmousedover: 0
+  sound: {fileID: 0}
 --- !u!1 &1945973066
 GameObject:
   m_ObjectHideFlags: 0
@@ -836,6 +804,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -895,7 +864,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1968850283}
   - component: {fileID: 1968850282}
-  - component: {fileID: 1968850281}
   - component: {fileID: 1968850280}
   - component: {fileID: 1968850279}
   - component: {fileID: 1968850278}
@@ -968,26 +936,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &1968850281
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1968850277}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 612dd98008063453b815d6b440a0dcf8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  xOffset: 0.5
-  angleconstant: 1
-  birdguyopen: {fileID: 0}
-  pinkgirlopen: {fileID: 0}
-  beachopen: {fileID: 0}
-  closedsprite: {fileID: 0}
-  doornum: 1
-  s: {fileID: 0}
 --- !u!212 &1968850282
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1002,6 +950,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1065,6 +1014,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scenename: blankroom
   destination: {x: 0, y: 0}
+  playasoundwhenmousedover: 0
+  sound: {fileID: 0}
 --- !u!114 &1968850285
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1077,6 +1028,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18ea87d1ba70943a69cd0604db166922, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  outline: {fileID: 0}
+  outline: {fileID: 2421985006402307226, guid: aab75a1b80a2046e380e37190df490fa, type: 3}
   normalsprite: {fileID: 21300000, guid: d6115174a633e417d9b76a783280b10e, type: 3}
   headopen: {fileID: 21300000, guid: 00432866d22d74aa9a621796c914e0b5, type: 3}

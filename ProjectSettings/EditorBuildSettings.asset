@@ -86,9 +86,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/hallway2.unity
     guid: 121de718a568849759f1b7db52a5a5f7
-  - enabled: 1
-    path: Assets/hallway3.unity
-    guid: 5c0cab11420f14fe2b2368fae4a98d05
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/pinkgirl.unity
     guid: fe73da554b8544b14b9cb0021f34c95a

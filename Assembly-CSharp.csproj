@@ -117,6 +117,7 @@
      <Compile Include="Assets\topbox.cs" />
      <Compile Include="Assets\triangle.cs" />
      <Compile Include="Assets\turnoffinstructions.cs" />
+     <Compile Include="Assets\tvspin.cs" />
      <Compile Include="Assets\whichhallway.cs" />
      <Compile Include="Assets\windows.cs" />
      <Compile Include="Assets\zoomin.cs" />

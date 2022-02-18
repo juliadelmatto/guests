@@ -98,4 +98,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/end.unity
     guid: 667f91e0667fc4e7bb49a71ba9f064e6
+  - enabled: 1
+    path: Assets/TV.unity
+    guid: 5409f1600d5995e409645c02faf4fe81
+  - enabled: 1
+    path: Assets/tv3d.unity
+    guid: e2e41cacbff41bb4f9018fb37c27bcbe
   m_configObjects: {}

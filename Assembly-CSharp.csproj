@@ -61,6 +61,7 @@
      <Compile Include="Assets\camera.cs" />
      <Compile Include="Assets\changescene.cs" />
      <Compile Include="Assets\checkforcharacters.cs" />
+     <Compile Include="Assets\checkforcollisionwithobjectname.cs" />
      <Compile Include="Assets\childrencount.cs" />
      <Compile Include="Assets\clickanimate.cs" />
      <Compile Include="Assets\clickappear.cs" />
@@ -113,8 +114,10 @@
      <Compile Include="Assets\oldstuff\slowlymove.cs" />
      <Compile Include="Assets\oldstuff\textRecognitionScript.cs" />
      <Compile Include="Assets\oldstuff\underground\undergroundconvos.cs" />
+     <Compile Include="Assets\parenttv.cs" />
      <Compile Include="Assets\pillars.cs" />
      <Compile Include="Assets\playdoorclosed.cs" />
+     <Compile Include="Assets\quadmovement.cs" />
      <Compile Include="Assets\root.cs" />
      <Compile Include="Assets\sequence.cs" />
      <Compile Include="Assets\sidetracker.cs" />
@@ -130,7 +133,6 @@
      <Compile Include="Assets\tvspin.cs" />
      <Compile Include="Assets\whichhallway.cs" />
      <Compile Include="Assets\windows.cs" />
-     <Compile Include="Assets\zoomin.cs" />
      <None Include="Assets\newart\tv\3d\Glow.shader" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/mattb/Documents/guests/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

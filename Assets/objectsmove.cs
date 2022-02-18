@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class objectsmove : MonoBehaviour
 {
@@ -10,7 +8,7 @@ public class objectsmove : MonoBehaviour
     public bool keystomove = true;
     public bool mousetomove = false;
     public bool onlyupanddown = false;
-    public bool stick=false;
+    public bool stick = false;
     // Start is called before the first frame update
     void Start()
     {

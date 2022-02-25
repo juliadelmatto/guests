@@ -7,6 +7,7 @@ public class parenttv : MonoBehaviour
     public GameObject tv3;
     public GameObject tv4;
 
+    public GameObject popup;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,6 +19,7 @@ public class parenttv : MonoBehaviour
     {
         if (tv1.gameObject.GetComponent<checkforcollisionwithobjectname>().colliding == true && tv2.gameObject.GetComponent<checkforcollisionwithobjectname>().colliding == true && tv3.gameObject.GetComponent<checkforcollisionwithobjectname>().colliding == true && tv4.gameObject.GetComponent<checkforcollisionwithobjectname>().colliding == true)
         {
+            popup.SetActive(true);
             Debug.Log("PUZZLE SOLVED!!");
             //do this when puzzle solved
         }

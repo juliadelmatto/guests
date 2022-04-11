@@ -67,6 +67,7 @@
      <Compile Include="Assets\clickappear.cs" />
      <Compile Include="Assets\clickrotate.cs" />
      <Compile Include="Assets\clickswitch.cs" />
+     <Compile Include="Assets\clicktochangeanothersprite.cs" />
      <Compile Include="Assets\clouds.cs" />
      <Compile Include="Assets\collisionpuzzle.cs" />
      <Compile Include="Assets\colorbird.cs" />
@@ -80,6 +81,7 @@
      <Compile Include="Assets\dots.cs" />
      <Compile Include="Assets\exit.cs" />
      <Compile Include="Assets\eyefollow.cs" />
+     <Compile Include="Assets\floatingwords.cs" />
      <Compile Include="Assets\fly.cs" />
      <Compile Include="Assets\forceratio.cs" />
      <Compile Include="Assets\frame.cs" />
@@ -120,6 +122,7 @@
      <Compile Include="Assets\quadmovement.cs" />
      <Compile Include="Assets\root.cs" />
      <Compile Include="Assets\sequence.cs" />
+     <Compile Include="Assets\sidebar.cs" />
      <Compile Include="Assets\sidetracker.cs" />
      <Compile Include="Assets\skulls.cs" />
      <Compile Include="Assets\slingshot.cs" />

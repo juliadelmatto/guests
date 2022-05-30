@@ -8,6 +8,8 @@ public class clicktochangeanothersprite : MonoBehaviour
     public GameObject objecttochange;
     public Sprite firstsprite;
     public Sprite secondsprite;
+    public GameObject lightsky;
+    public GameObject words;
     // Start is called before the first frame update
     void Start()
     {
@@ -26,10 +28,15 @@ public class clicktochangeanothersprite : MonoBehaviour
             {
                 Debug.Log("WHY");
                 objecttochange.GetComponent<SpriteRenderer>().sprite = secondsprite;
+                lightsky.SetActive(true);
+                words.SetActive(true);
             }
-            if (hovering == true)
+            if (hovering == false)
             {
+                lightsky.SetActive(false);
+                words.SetActive(false);
                 objecttochange.GetComponent<SpriteRenderer>().sprite = firstsprite;
+
             }
         }
     }

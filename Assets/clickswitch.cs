@@ -29,6 +29,8 @@ public class clickswitch : MonoBehaviour
         //        Debug.Log("--------------");
         //    }
         //}
+
+
     }
 
     private void OnMouseDown()

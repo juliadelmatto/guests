@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/title2.unity
+- path: Assets/waterroom.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

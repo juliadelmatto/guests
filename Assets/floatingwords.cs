@@ -78,7 +78,7 @@ public class floatingwords : MonoBehaviour
 
                 GetComponent<SpriteRenderer>().sprite = emptysprite;
                 //for now its in the same place
-                transform.position = new Vector3(-4f, -3.5f, 0f);
+                transform.position = new Vector3(-2.53f, 2.15f, 0f);
                 phase2 = false;
                 phase3 = true;
                 readyforbody = false; ;
